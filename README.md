@@ -4,7 +4,7 @@
 
 资源预览图：
 
-<img src="https://github.com/jinmohan/sxxc-matrixfive-velaapp/blob/main/preview0.png?raw=true" alt="preview0" style="zoom: 33%;" />
+<img src="https://raw.githubusercontent.com/jinmohan/masklite-matrixfive-velaapp/refs/heads/main/preview1.png" alt="preview0" style="zoom: 33%;" />
 
 
 
