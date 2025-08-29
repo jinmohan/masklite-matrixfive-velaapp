@@ -1,0 +1,23 @@
+{
+  "item": {
+    "name": "面具Lite",
+    "description": "伪装小米手环成普通手环",
+    "preview": [
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/jinmohan/masklite-matrixfive-velaapp",
+    "author": [
+      {
+        "name": "MatrixFive",
+        "author_url": "https://matrixfive.online/"
+      }
+    ]
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "mi9n661.0.0.rpk"
+    }
+  }
+}
